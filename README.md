@@ -122,5 +122,4 @@ compare test accuracy, discuss over/underfitting) rather than a specific "best" 
 - Swap in the bank's real data by replacing `data/LoanDefaultDataset.csv` — the
   pipeline doesn't need any other changes as long as the column names match.
 
----
-*Piyush Khairnar — Marvellous Infosystems*
+
